@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm  Ahmad DIOP! 👋<br><br>💻 Software Engineering Student & Junior Full-Stack Developer based in Senegal 🇸🇳.<br>🚀 Passionate about building web applications,<br>💡 Focused on first-principles problem solving, clean frontend UI, and efficient backends.<br>📌 Currently working on my graduation thesis project and exploring modern software architecture.<br><br><br>
+Hi there, I'm  Ahmad DIOP! 👋<br><br>💻 Software Engineering Student & Junior Full-Stack Developer based in Senegal 🇸🇳.
 
 
 ## 🌐 Socials:
