@@ -1,5 +1,4 @@
 
-Hi there, I'm ! <br><br>💻 Software Engineering Student & Junior Full-Stack Developer based in Senegal 🇸🇳.
 
 
 ## 🌐 Socials:
