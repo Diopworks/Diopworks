@@ -1,36 +1,142 @@
+# 𓂀 AHMAD DIOP | SOFTWARE ENGINEER
 
+<p align="center">
+  <samp>BUILDING IDEAS INTO DIGITAL EXPERIENCES.</samp>
+  <br/>
+  <br/>
+  <code>SOFTWARE ENGINEERING</code> &nbsp; ◈ &nbsp; <code>FULL-STACK DEVELOPMENT</code> &nbsp; ◈ &nbsp; <code>UI/UX DESIGN</code>
+  <br/><br/>
+  🇸🇳 <b>Based in Senegal</b>
+</p>
 
-# 💫 About Me:
-Hi there, I'm  Ahmad DIOP! 👋<br><br>💻 Software Engineering Student & Junior Full-Stack Developer based in Senegal 🇸🇳.<br>🚀 Passionate about building web applications,<br>💡 Focused on first-principles problem solving, clean frontend UI, and efficient backends.<br>📌 Currently working on my graduation thesis project and exploring modern software architecture.<br><br><br>
+<p align="center">
+  ═══════════════════════════════════════
+  <br/>
+  ◆ &nbsp; ◇ &nbsp; ◆ &nbsp; ◈ &nbsp; ◆ &nbsp; ◇ &nbsp; ◆
+  <br/>
+  ═══════════════════════════════════════
+</p>
 
+## 01 / ABOUT ME
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/eggman_11) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ahmaaaaaad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:diopbamba873@gmail.com) 
+Hi, I'm **Ahmad DIOP** 👋
 
-</div>
+I'm a Software Engineering student and Junior Full-Stack Developer from Senegal.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+- 💻 Passionate about building useful and scalable web applications.
+- 🎨 Interested in clean interfaces and thoughtful user experiences.
+- ⚙️ Focused on problem-solving, software architecture and efficient backends.
+- 🚀 Currently working on my graduation thesis project.
+- 🌍 Always exploring new technologies and learning by building.
 
-
+> *"Great software starts with curiosity and grows through consistency."*
 
 ---
-[![](https://komarev.com/ghpvc/?username=Diopworks&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**Diopworks/Diopworks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 02 / CONNECT WITH ME
 
-Here are some ideas to get you started:
+<p align="left">
+  <a href="https://discord.gg/eggman_11">
+    <img src="https://img.shields.io/badge/Discord-181B22?style=for-the-badge&logo=discord&logoColor=D9A441" />
+  </a>
+  <a href="https://instagram.com/_ahmaaaaaad">
+    <img src="https://img.shields.io/badge/Instagram-181B22?style=for-the-badge&logo=instagram&logoColor=D9A441" />
+  </a>
+  <a href="mailto:diopbamba873@gmail.com">
+    <img src="https://img.shields.io/badge/Email-181B22?style=for-the-badge&logo=gmail&logoColor=D9A441" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
+## 03 / TECHNOLOGIES & TOOLS
 
+**01 — PROGRAMMING LANGUAGES**
+
+![C](https://img.shields.io/badge/C-252A33?style=flat-square&logo=c&logoColor=D9A441)
+![C++](https://img.shields.io/badge/C++-252A33?style=flat-square&logo=cplusplus&logoColor=D9A441)
+![C#](https://img.shields.io/badge/C%23-252A33?style=flat-square&logo=csharp&logoColor=D9A441)
+![Java](https://img.shields.io/badge/Java-252A33?style=flat-square&logo=openjdk&logoColor=D9A441)
+![JavaScript](https://img.shields.io/badge/JavaScript-252A33?style=flat-square&logo=javascript&logoColor=D9A441)
+![TypeScript](https://img.shields.io/badge/TypeScript-252A33?style=flat-square&logo=typescript&logoColor=D9A441)
+![PHP](https://img.shields.io/badge/PHP-252A33?style=flat-square&logo=php&logoColor=D9A441)
+![Python](https://img.shields.io/badge/Python-252A33?style=flat-square&logo=python&logoColor=D9A441)
+![Dart](https://img.shields.io/badge/Dart-252A33?style=flat-square&logo=dart&logoColor=D9A441)
+
+**02 — FRONTEND DEVELOPMENT**
+
+![HTML5](https://img.shields.io/badge/HTML5-252A33?style=flat-square&logo=html5&logoColor=D9A441)
+![CSS3](https://img.shields.io/badge/CSS3-252A33?style=flat-square&logo=css3&logoColor=D9A441)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-252A33?style=flat-square&logo=bootstrap&logoColor=D9A441)
+![React](https://img.shields.io/badge/React-252A33?style=flat-square&logo=react&logoColor=D9A441)
+![Next.js](https://img.shields.io/badge/Next.js-252A33?style=flat-square&logo=next.js&logoColor=D9A441)
+![Angular](https://img.shields.io/badge/Angular-252A33?style=flat-square&logo=angular&logoColor=D9A441)
+![Vue.js](https://img.shields.io/badge/Vue.js-252A33?style=flat-square&logo=vuedotjs&logoColor=D9A441)
+![JavaFX](https://img.shields.io/badge/JavaFX-252A33?style=flat-square&logo=openjdk&logoColor=D9A441)
+
+**03 — BACKEND & FRAMEWORKS**
+
+![Laravel](https://img.shields.io/badge/Laravel-252A33?style=flat-square&logo=laravel&logoColor=D9A441)
+![Node.js](https://img.shields.io/badge/Node.js-252A33?style=flat-square&logo=nodedotjs&logoColor=D9A441)
+![Spring](https://img.shields.io/badge/Spring-252A33?style=flat-square&logo=spring&logoColor=D9A441)
+![.NET](https://img.shields.io/badge/.NET-252A33?style=flat-square&logo=dotnet&logoColor=D9A441)
+![JWT](https://img.shields.io/badge/JWT-252A33?style=flat-square&logo=jsonwebtokens&logoColor=D9A441)
+![NPM](https://img.shields.io/badge/NPM-252A33?style=flat-square&logo=npm&logoColor=D9A441)
+
+**04 — DATABASES & CLOUD**
+
+![MySQL](https://img.shields.io/badge/MySQL-252A33?style=flat-square&logo=mysql&logoColor=D9A441)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-252A33?style=flat-square&logo=postgresql&logoColor=D9A441)
+![MongoDB](https://img.shields.io/badge/MongoDB-252A33?style=flat-square&logo=mongodb&logoColor=D9A441)
+![Oracle](https://img.shields.io/badge/Oracle-252A33?style=flat-square&logo=oracle&logoColor=D9A441)
+![Firebase](https://img.shields.io/badge/Firebase-252A33?style=flat-square&logo=firebase&logoColor=D9A441)
+
+**05 — MOBILE & DATA VISUALIZATION**
+
+![Flutter](https://img.shields.io/badge/Flutter-252A33?style=flat-square&logo=flutter&logoColor=D9A441)
+![Chart.js](https://img.shields.io/badge/Chart.js-252A33?style=flat-square&logo=chartdotjs&logoColor=D9A441)
+
+**06 — DESIGN & CREATIVE TOOLS**
+
+![Figma](https://img.shields.io/badge/Figma-252A33?style=flat-square&logo=figma&logoColor=D9A441)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-252A33?style=flat-square&logo=adobexd&logoColor=D9A441)
+![Photoshop](https://img.shields.io/badge/Photoshop-252A33?style=flat-square&logo=adobephotoshop&logoColor=D9A441)
+![Canva](https://img.shields.io/badge/Canva-252A33?style=flat-square&logo=canva&logoColor=D9A441)
+![Aseprite](https://img.shields.io/badge/Aseprite-252A33?style=flat-square&logo=aseprite&logoColor=D9A441)
+
+**07 — DEVOPS & PROJECT MANAGEMENT**
+
+![Git](https://img.shields.io/badge/Git-252A33?style=flat-square&logo=git&logoColor=D9A441)
+![GitHub](https://img.shields.io/badge/GitHub-252A33?style=flat-square&logo=github&logoColor=D9A441)
+![GitLab](https://img.shields.io/badge/GitLab-252A33?style=flat-square&logo=gitlab&logoColor=D9A441)
+![Docker](https://img.shields.io/badge/Docker-252A33?style=flat-square&logo=docker&logoColor=D9A441)
+![Apache](https://img.shields.io/badge/Apache-252A33?style=flat-square&logo=apache&logoColor=D9A441)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-252A33?style=flat-square&logo=githubactions&logoColor=D9A441)
+![Postman](https://img.shields.io/badge/Postman-252A33?style=flat-square&logo=postman&logoColor=D9A441)
+![Jira](https://img.shields.io/badge/Jira-252A33?style=flat-square&logo=jira&logoColor=D9A441)
+![Trello](https://img.shields.io/badge/Trello-252A33?style=flat-square&logo=trello&logoColor=D9A441)
+
+---
+
+## 04 / GITHUB ANALYTICS
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Diopworks&show_icons=true&hide_border=true&bg_color=111318&title_color=D9A441&icon_color=D9A441&text_color=E8E0D0" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diopworks&layout=compact&hide_border=true&bg_color=111318&title_color=D9A441&text_color=E8E0D0" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=Diopworks&hide_border=true&background=111318&ring=D9A441&fire=B65B3C&currStreakLabel=D9A441&sideLabels=E8E0D0&dates=8A8F98" />
+</p>
+
+---
+
+<p align="center">
+  <samp>CRAFTED WITH CURIOSITY • BUILT WITH PURPOSE</samp>
+  <br/><br/>
+  ◆ &nbsp; ◇ &nbsp; ◆ &nbsp; ◈ &nbsp; ◆ &nbsp; ◇ &nbsp; ◆
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=Diopworks&style=flat-square&color=D9A441&label=PROFILE+VIEWS" />
+  <br/><br/>
+  <sub>© Ahmad Diop — Senegal 🇸🇳</sub>
+</p>
