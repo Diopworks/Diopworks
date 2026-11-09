@@ -1,4 +1,4 @@
-<div align="center"><img src="assets/github-banner.png" alt="Ahmad DIOP — Senegalese Software Engineering Student and Junior Full-Stack Developer" width="100%">
+
 
 # 💫 About Me:
 Hi there, I'm  Ahmad DIOP! 👋<br><br>💻 Software Engineering Student & Junior Full-Stack Developer based in Senegal 🇸🇳.<br>🚀 Passionate about building web applications,<br>💡 Focused on first-principles problem solving, clean frontend UI, and efficient backends.<br>📌 Currently working on my graduation thesis project and exploring modern software architecture.<br><br><br>
@@ -32,12 +32,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</details>📊 GitHub at a Glance
-<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=Diopworks&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F59E0B&icon_color=F59E0B&text_color=E5E7EB&rank_icon=github" alt="Ahmad's GitHub statistics"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diopworks&layout=compact&hide_border=true&bg_color=0D1117&title_color=F59E0B&text_color=E5E7EB" alt="Most used programming languages"><img width="95%" src="https://streak-stats.demolab.com?user=Diopworks&hide_border=true&background=0D1117&ring=F59E0B&fire=F97316&currStreakLabel=F59E0B&sideLabels=E5E7EB&dates=9CA3AF" alt="GitHub contribution streak"></div>🤝 Let's Connect
-I'm always happy to connect with developers, exchange ideas, learn from others, and collaborate on meaningful projects.
-- 📧 Email: diopbamba873@gmail.com
-- 💬 Discord: eggman_11
-- 📸 Instagram: @_ahmaaaaaad
-<div align="center">Made with curiosity, ambition, and a touch of Teranga. 🇸🇳
-Jàmm rekk • Keep building.
-</div>
+
+
