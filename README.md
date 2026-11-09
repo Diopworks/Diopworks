@@ -1,31 +1,37 @@
-# Ahmad DIOP
+# Ahmad Diop
 
 <p align="center">
-  <code>SOFTWARE ENGINEERING STUDENT</code> &nbsp;·&nbsp; <code>FULL-STACK DEVELOPER</code>
-</p>
-
-<p align="center">
-  🇸🇳 &nbsp; Based in Senegal
-</p>
-
-<p align="center">
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  <samp>SOFTWARE ENGINEER IN THE MAKING</samp>
+  <br><br>
+  <strong>Building ideas into digital experiences.</strong>
   <br>
-  ◇ &nbsp; ◆ &nbsp; ◇ &nbsp; ◆ &nbsp; ◇ &nbsp; ◆ &nbsp; ◇
-  <br>
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  <sub>Full-Stack Development · UI/UX Design · Creative Technology</sub>
+  <br><br>
+  🇸🇳 &nbsp; Senegal
 </p>
 
-### About me
+<p align="center">
+  <samp>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</samp>
+  <br>
+  <samp>◇ ━ ◆ ━ ◇ ━ ◆ ━ ◇ ━ ◆ ━ ◇</samp>
+  <br>
+  <samp>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</samp>
+</p>
 
-I'm Ahmad, a software engineering student passionate about building useful digital experiences.
+## 01 — ABOUT ME
 
-I enjoy exploring web development, software architecture and UI/UX design. I believe in continuous learning, clean code and turning ideas into reality.
+```text
+Hello, World! I'm Ahmad.
+```
 
-- 💻 Interested in Full-Stack Development
-- 🎨 Passionate about UI/UX Design
-- 🌱 Always learning and improving
-- 📍 Senegal, Africa
+I'm a Software Engineering student with a passion for creating meaningful digital products.
+
+I enjoy combining logic, design and technology to build applications that are both functional and enjoyable to use.
+
+- `01` — Developing web applications and software solutions.
+- `02` — Exploring modern technologies and architectures.
+- `03` — Designing clean and intuitive user interfaces.
+- `04` — Learning, experimenting and building new things.
 
 ### Tech stack
 
@@ -38,7 +44,12 @@ I enjoy exploring web development, software architecture and UI/UX design. I bel
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/eggman_11) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ahmaaaaaad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:diopbamba873@gmail.com) 
 
 ---
-
 <p align="center">
-  <sub>Built with curiosity, code & a little African spirit. ◇</sub>
+  <samp>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</samp>
+  <br><br>
+  <sub>ROOTED IN AFRICA. CONNECTED TO THE WORLD.</sub>
+  <br>
+  <sub>Designed with purpose. Built with passion.</sub>
+  <br><br>
+  <samp>◆ &nbsp; ◇ &nbsp; ◆ &nbsp; ◇ &nbsp; ◆</samp>
 </p>
